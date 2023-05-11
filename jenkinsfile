@@ -1,2 +1,2 @@
 @Library("test-library") _
-myPipeline(branch: 'main', scmUrl: 'ssh://github.com/Prashantped/sonarqube-maven-example.git', serverPort: '8080')
+myPipeline()
